@@ -1,0 +1,8 @@
+Melvin 
+- Login system, including password hash and salt
+- AES encryption for day-closing information and RSA encryption for the AES key
+
+Yar Xuan
+- Digital signature
+- Converting menu.csv into menu.xlsx, writing to it and password protecting it using xlsxwriter
+- AES encryption for menu and RSA encryption for the AES key
